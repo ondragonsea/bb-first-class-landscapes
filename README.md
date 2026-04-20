@@ -1,2 +1,14 @@
-# bb-first-class-landscapes
-B&amp;B First Class Landscapes is a Vermont-based landscaping and property services company offering lawn mowing, spring cleanups, driveway clearing, and general outdoor maintenance. We take pride in our work and treat every property like it’s our own, delivering dependable service, clean results, and first-class care for homes and businesses.
+# B&B First Class Landscapes
+
+Simple website for B&B First Class Landscapes built with Next.js.
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Import this repository into Vercel and deploy.
